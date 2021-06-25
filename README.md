@@ -19,7 +19,6 @@
 
 O projeto **Letmeask** foi criado para a comunicação de pessoas através de salas de aulas criadas para tirar dúvidas e obter informações.
 
----
 
 # 🚀 Tecnologias utilizadas
 
